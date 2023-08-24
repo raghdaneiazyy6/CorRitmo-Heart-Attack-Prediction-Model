@@ -13,3 +13,10 @@ The dataset used for this project is the [Heart Attack Analysis & Prediction Dat
 ## Research
 - If you're interested in diving into the details of our research, you can access the full research paper and explore our work in-depth, please follow [this link](https://www.mediafire.com/file/j8ud8jx6ut4ewzb/Heart_Attack_Analysis_And_Prediction.pdf/file) 
 - For a comprehensive overview of all our work and to explore our projects in practical aspects, you can access our [Google Colab notebook](https://colab.research.google.com/drive/1TPFqBmjrZnJw57dbTQmtTrCRvKFccp_b?usp=sharing) that demonstrates our methodology and analysis.
+
+## Contributors
+
+Special thanks to our team members who contributed to this project:
+
+- [@malaknasser812](https://github.com/malaknasser812)
+- [@LunaEyad](https://github.com/LunaEyad)
