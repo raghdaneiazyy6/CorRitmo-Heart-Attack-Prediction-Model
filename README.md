@@ -1,5 +1,5 @@
 <div align="center">
-  ![download](https://github.com/raghdaneiazyy6/Heart-Attack-Prediction-Model/assets/96526181/588f89ff-7a2a-45a9-92a9-9f058d12d431)
+  <img src="[https://your-image-url.com/heart-attack-image.jpg](https://www.mediafire.com/file/59qop34w78ynhq8/download.jpeg/file)" alt="Heart Attack">
 </div>
 
 # Heart Attack Analysis and Prediction Model
