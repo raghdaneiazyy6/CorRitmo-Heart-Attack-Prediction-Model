@@ -2,4 +2,4 @@
 
 # Heart Attack Analysis and Prediction Model
 
-This repository contains the code and documentation for a research project aimed at developing a Heart Attack Analysis and Prediction Model using the Gaussian Naive Bayes classification approach. The model incorporates various data indicators from the [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) available on Kaggle.
+This research project aimed at developing a Heart Attack Analysis and Prediction Model using the Gaussian Naive Bayes classification approach. The model incorporates various data indicators from the [Heart Attack Analysis & Prediction Dataset](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) available on Kaggle.
