@@ -18,5 +18,11 @@ The dataset used for this project is the [Heart Attack Analysis & Prediction Dat
 
 Special thanks to our team members who contributed to this project:
 
-- [@malaknasser812](https://github.com/malaknasser812)
-- [@LunaEyad](https://github.com/LunaEyad)
+<div align="left">
+  <a href="https://github.com/malaknasser812">
+    <img src="https://github.com/malaknasser812.png" width="100px" alt="@malaknasser812">
+  </a>
+  <a href="https://github.com/LunaEyad">
+    <img src="https://github.com/LunaEyad.png" width="100px" alt="@LunaEyad">
+  </a>
+</div>
