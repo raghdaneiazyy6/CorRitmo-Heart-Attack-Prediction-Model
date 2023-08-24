@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://imgur.com/tMilNRf.png" />
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://imgur.com/tMilNRf.png" alt="Cover Image" style="width: 100%; object-fit: cover;">
 </div>
+
 
 # Heart Attack Analysis and Prediction Model
 
