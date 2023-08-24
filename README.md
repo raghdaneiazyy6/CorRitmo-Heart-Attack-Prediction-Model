@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/tMilNRf" alt="Heart Attack">
+  <img src="https://imgur.com/tMilNRf"/>
 </div>
 
 
