@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://your-image-url.com/heart-attack-image.jpg](https://www.mediafire.com/file/59qop34w78ynhq8/download.jpeg/file)" alt="Heart Attack">
+  <img src="[[https://your-image-url.com/heart-attack-image.jpg](https://www.mediafire.com/file/59qop34w78ynhq8/download.jpeg/file)](https://www.mediafire.com/view/59qop34w78ynhq8/download.jpeg/file)" alt="Heart Attack">
 </div>
 
 # Heart Attack Analysis and Prediction Model
